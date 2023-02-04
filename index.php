@@ -51,7 +51,7 @@
 	<div class="carrinho-container"> 
 	<?php 
 
-	$itens = array(['nome' => 'burgue1','imagem' => 'especial.jfif','preco' => '200'], ['nome' => 'burgue2','imagem' => 'x-burgue.jfif','preco' => '400'], ['nome' => 'burgue3','imagem' => 'x-salada.jpg','preco' => '400']);
+	$itens = array(['nome' => 'nomeProduto','imagem' => 'imagem.png','preco' => '200'], ['nome' => 'nomeProduto','imagem' => 'imagem.png','preco' => '600'], ['nome' => 'nomeProduto','imagem' => 'imagem.png','preco' => '400']);
 
 	foreach ($itens as $key => $value) {
 ?>
